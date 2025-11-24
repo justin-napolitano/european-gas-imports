@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - sphinx documentation
   - backup automation
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The project centers on automating build, deployment, and backup workflows for Sphinx documentation
+  via Python and shell scripts, matching the Automation family's focus on script-driven automation
+  of build and deployment processes.
 ---
 
 # European Gas Imports Project Overview
@@ -80,3 +86,4 @@ Europe's energy landscape, particularly natural gas imports, is complex and stra
 ## Summary
 
 This repository is a practical toolkit for managing the lifecycle of documentation and data analysis related to European natural gas imports. It integrates build automation, deployment, and backup within a Python and shell scripting environment, supported by Sphinx documentation tools. The structure supports extensibility for future analytical and visualization capabilities, though some housekeeping and automation improvements are advisable for long-term sustainability.
+
