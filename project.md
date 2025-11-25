@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/european-gas-imports
 generatedAt: '2025-11-24T21:34:42.344Z'
 source: github-auto
 summary: >-
-  Manage and analyze European gas import data with automated documentation
-  generation and deployment using Python and shell scripts.
+  Manage and analyze European natural gas import data with automated
+  documentation and deployment using Python and shell scripts.
 tags:
   - python
   - bash
@@ -16,13 +16,14 @@ tags:
   - dropbox
   - makefile
   - jupyter
-seoPrimaryKeyword: automated documentation generation
+  - data analysis
+seoPrimaryKeyword: european gas imports documentation automation
 seoSecondaryKeywords:
-  - european gas imports
-  - python scripting
-  - deployment automation
-  - data visualization
-  - documentation tools
+  - python documentation generation
+  - shell scripting deployment
+  - sphinx documentation
+  - data analysis tools
+  - automated backup solutions
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
