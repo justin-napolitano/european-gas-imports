@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/european-gas-imports
 generatedAt: '2025-11-24T21:34:42.344Z'
 source: github-auto
 summary: >-
-  Manage and analyze European natural gas import data with automated
-  documentation and deployment using Python and shell scripts.
+  Manage and analyze European natural gas import data with automated documentation and deployment
+  using Python and shell scripts.
 tags:
   - python
   - bash
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - data analysis tools
   - automated backup solutions
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -139,3 +139,4 @@ uninstall.sh        # Script to uninstall or clean environment
 ---
 
 *Note: Some assumptions were made due to missing explicit project description.*
+
