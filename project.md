@@ -1,20 +1,29 @@
 ---
 slug: github-european-gas-imports
 id: github-european-gas-imports
-title: European Gas Imports
+title: Automated Documentation for European Gas Imports Project
 repo: justin-napolitano/european-gas-imports
 githubUrl: https://github.com/justin-napolitano/european-gas-imports
 generatedAt: '2025-11-24T21:34:42.344Z'
 source: github-auto
 summary: >-
-  This repository contains scripts and resources for managing and analyzing
-  European natural gas import data, with a focus on documentation generation and
-  deployment automation. It leverages Python, shell scripting, and Jupyter
-  notebooks to build, backup, and deploy static HTML documentation.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Manage and analyze European gas import data with automated documentation
+  generation and deployment using Python and shell scripts.
+tags:
+  - python
+  - bash
+  - sphinx
+  - dropbox
+  - makefile
+  - jupyter
+seoPrimaryKeyword: automated documentation generation
+seoSecondaryKeywords:
+  - european gas imports
+  - python scripting
+  - deployment automation
+  - data visualization
+  - documentation tools
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
