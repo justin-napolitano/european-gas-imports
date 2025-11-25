@@ -1,13 +1,13 @@
 ---
 slug: github-european-gas-imports
-title: Automated Documentation and Backup for European Natural Gas Imports
+title: Automating Documentation for European Gas Imports
 repo: justin-napolitano/european-gas-imports
 githubUrl: https://github.com/justin-napolitano/european-gas-imports
 generatedAt: '2025-11-23T08:54:52.713725Z'
 source: github-auto
 summary: >-
-  A Python and shell scripting toolkit integrating Sphinx for build automation, deployment, and
-  backup of European natural gas imports documentation.
+  Explore a project that automates documentation and data analysis workflows for
+  European natural gas imports using Python, Bash, and Sphinx.
 tags:
   - python
   - sphinx
@@ -15,18 +15,26 @@ tags:
   - backup
   - github-pages
   - shell-scripting
-seoPrimaryKeyword: european natural gas imports
+  - bash
+  - data analysis
+  - github pages
+  - automation
+seoPrimaryKeyword: european gas imports documentation automation
 seoSecondaryKeywords:
-  - documentation automation
+  - build pipeline
+  - data backup
   - sphinx documentation
-  - backup automation
+  - github pages deployment
+  - energy data analysis
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The project centers on automating build, deployment, and backup workflows for Sphinx documentation
-  via Python and shell scripts, matching the Automation family's focus on script-driven automation
-  of build and deployment processes.
+  The project centers on automating build, deployment, and backup workflows for
+  Sphinx documentation via Python and shell scripts, matching the Automation
+  family's focus on script-driven automation of build and deployment processes.
+kind: project
+id: github-european-gas-imports
 ---
 
 # European Gas Imports Project Overview
